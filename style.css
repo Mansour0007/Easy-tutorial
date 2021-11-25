@@ -48,7 +48,6 @@ nav {
 }
 .nav-links ul li:hover::after{
     width: 100%;
-
 }
 .text-box{
     width: 90%;
